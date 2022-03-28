@@ -1,0 +1,117 @@
+body {
+    background-color: hsl(204, 43%, 93%);
+}
+
+.container {
+    width: 550px;
+    height: 400px;
+    margin: 0 auto;
+    margin-top: 200px;
+}
+
+.intro {
+    background-color: white;
+    height: 200px;
+    
+}
+
+.flex-container {
+display: flex;
+
+
+}
+
+.box-1 {
+    width: 275px;
+    height: 220px;
+    background-color: hsl(179, 65%, 38%);
+    
+}
+
+.box-2 {
+    width: 275px;
+    height: 220px;
+    background-color: hsl(179, 62%, 43%);
+}
+
+button {
+    background-color: hsl(71, 73%, 54%);
+    width: 200px;
+    height: 30px;
+    border: none;
+    border-radius: 5px;
+    margin-left: 30px;
+    color: white;
+    font-weight: 700;
+    
+}
+
+h2 {
+    text-align: left;
+    padding-left: 40px;
+    padding-top: 10px;
+    color:hsl(179, 62%, 43%);
+    margin-top: 20px;
+    font-family: Karla;
+}
+
+h3 {
+    margin-left: 40px;
+    color: white;
+    margin-top: 25px;
+}
+
+h4 {
+    margin-left: 40px;
+}
+
+p {
+    text-align: center;
+    color: hsl(218, 22%, 67%);
+    font-family: "Karla";
+    font-weight: 400;
+    font-size: 15px;
+    
+}
+
+#advert {
+    color:hsl(71, 73%, 54%);
+    margin-left: 40px;
+}
+
+ul {
+    color: hsl(204, 43%, 93%);
+    list-style-type: none;
+    font-family: "Karla";
+    font-size: 14px;
+    
+}
+
+#subs {
+    color: white;
+}
+
+span {
+    text-align: center;
+    color: white;
+    font-size: 40px;
+    margin-left: 20px;
+}
+
+#subprice {
+    color: hsl(218, 22%, 67%);
+    
+}
+
+#box2title {
+    margin-left: 40px;
+    font-family: "Karla";
+}
+
+#description {
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-right: 20px;
+    
+}
+
